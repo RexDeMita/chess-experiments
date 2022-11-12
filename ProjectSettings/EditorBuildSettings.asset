@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Chess/Scenes/MainMenu.unity
-    guid: b1e24d159f296f445b936733d4246cc5
-  - enabled: 1
-    path: Assets/Chess/Scenes/Chess.unity
+    path: Assets/ChessStockfishAI/Scenes/Chess.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Chess/Scenes/ChessPuzzle.unity
-    guid: c4bf04eb3be52f14db319698075c1521
-  - enabled: 1
-    path: Assets/Chess/Scenes/PgnPlayer.unity
-    guid: 2954057127639be40a4101c96a7df9a4
   m_configObjects: {}
